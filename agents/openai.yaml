@@ -1,0 +1,4 @@
+interface:
+  display_name: "Humanizer + Stop Slop"
+  short_description: "Make prose natural, direct, and fact-faithful"
+  default_prompt: "Use $humanizer-stop-slop to rewrite this prose in my voice without changing its claims."
